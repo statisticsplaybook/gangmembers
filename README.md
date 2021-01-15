@@ -6,3 +6,4 @@
 * 김보미 issacbomi
 * 조덕희 snapbuy
 * 김주상 kjsang
+* 방태모 be-favorite
