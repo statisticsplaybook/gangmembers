@@ -9,3 +9,4 @@
 * 방태모 be-favorite
 * 계민석 comchem
 * 박세정 lapinsj
+* 코니 connie
