@@ -1,3 +1,8 @@
+
+# 슬통갱 멤버 신청 방법
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBSY_Bau1ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # 슬통갱 멤버 리스트
 
 다음은 유튜브 슬기로운 통계생활 Gang 멤버들입니다.
