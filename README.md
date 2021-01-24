@@ -1,7 +1,7 @@
 
 # 슬통갱 멤버 신청 방법
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IBSY_Bau1ps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![신청방법 설명](https://img.youtube.com/vi/IBSY_Bau1ps/0.jpg)](https://www.youtube.com/watch?v=IBSY_Bau1ps)
 
 # 슬통갱 멤버 리스트
 
