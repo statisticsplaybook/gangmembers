@@ -19,3 +19,4 @@
 * 코니 connie
 * 김현성 statKim
 * 조준우 metamath1
+* 권지현 jihyeon-kwon
