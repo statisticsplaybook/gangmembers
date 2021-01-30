@@ -16,7 +16,8 @@
 
 # 슬통갱 멤버 신청 방법
 
-아래 그림을 클릭하세요!
+멤버 신청은 현재 repository를 fork 하신 후, 자신의 이름과 깃허브 아이디를 적고, pull request 해주시면 됩니다.
+만약 자신이 pull request 어떻게 하는지 모른다면! 아래 그림을 클릭하세요!
 
 [![신청방법 설명](https://img.youtube.com/vi/IBSY_Bau1ps/0.jpg)](https://www.youtube.com/watch?v=IBSY_Bau1ps)
 
