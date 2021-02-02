@@ -14,6 +14,7 @@
 * 조준우 metamath1
 * 권지현 jihyeon-kwon
 * 곽재석 counseling-psychology
+* 박상훈 pherephobia
 
 # 슬통갱 멤버 신청 방법
 
