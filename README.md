@@ -13,6 +13,7 @@
 * 김현성 statKim
 * 조준우 metamath1
 * 권지현 jihyeon-kwon
+* 곽재석 counseling-psychology
 
 # 슬통갱 멤버 신청 방법
 
