@@ -15,6 +15,7 @@
 * 권지현 jihyeon-kwon
 * 곽재석 counseling-psychology
 * 박상훈 [pherephobia](https://pherephobia.github.io/namecard-challenge/)
+* 김경목 Bioinformatics88
 
 # 슬통갱 멤버 신청 방법
 
