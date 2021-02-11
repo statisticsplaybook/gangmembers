@@ -18,6 +18,7 @@
 * 김경목 Bioinformatics88
 * 심제이 sk4me
 * 서정범 blossomedin
+* 김상돈 sangdonkim 
 
 # 슬통갱 멤버 신청 방법
 
