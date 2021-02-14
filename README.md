@@ -9,7 +9,7 @@
 * 방태모 be-favorite
 * 계민석 comchem
 * 박세정 lapinsj
-* 코니 connie
+* 코니 connie-n
 * 김현성 statKim
 * 조준우 metamath1
 * 권지현 jihyeon-kwon
