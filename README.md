@@ -21,6 +21,7 @@
 * 김상돈 sangdonkim 
 * 제상민 SangminJe
 * 장성호 SHo-JANG
+* 편도연 dodorip
 
 # 슬통갱 멤버 신청 방법
 
