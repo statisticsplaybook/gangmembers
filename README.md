@@ -23,6 +23,7 @@
 * 장성호 SHo-JANG
 * 편도연 dodorip
 * 류환감 Hwankam
+* 이민규 mg1025
 
 # 슬통갱 멤버 신청 방법
 
