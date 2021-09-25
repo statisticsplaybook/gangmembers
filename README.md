@@ -24,6 +24,7 @@
 * 편도연 dodorip
 * 류환감 Hwankam
 * 이민규 mg1025
+* 장숙경 ar-chi-a
 
 # 슬통갱 멤버 신청 방법
 
