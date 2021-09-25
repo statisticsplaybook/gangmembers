@@ -25,6 +25,7 @@
 * 류환감 Hwankam
 * 이민규 mg1025
 * 홍만호 hongmano
+* 장숙경 ar-chi-a
 
 # 슬통갱 멤버 신청 방법
 
