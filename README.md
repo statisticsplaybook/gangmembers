@@ -24,6 +24,7 @@
 * 편도연 dodorip
 * 류환감 Hwankam
 * 이민규 mg1025
+* 오규설 kyuseol
 * 홍만호 hongmano
 * 장숙경 ar-chi-a
 
