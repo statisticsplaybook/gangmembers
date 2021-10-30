@@ -27,6 +27,7 @@
 * 오규설 kyuseol
 * 홍만호 hongmano
 * 장숙경 ar-chi-a
+* Ted Oh TaeRyom
 
 # 슬통갱 멤버 신청 방법
 
