@@ -29,6 +29,7 @@
 * 장숙경 ar-chi-a
 * Ted Oh TaeRyom
 * 강병철 sentim2
+* 테스트 testmember
 
 # 슬통갱 멤버 신청 방법
 
